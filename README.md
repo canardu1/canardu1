@@ -35,7 +35,6 @@ Based in Italy 🇮🇹 · [Atlas Tech](https://www.atlastech.it/)
 | [**moodle_quizreset**](https://github.com/canardu1/moodle_quizreset) | Moodle plugin that resets a course section after N failed quiz attempts |
 | [**course_completion_report-for-moodle**](https://github.com/canardu1/course_completion_report-for-moodle) | Moodle completion reports with custom user fields, Excel/CSV export |
 | [**excel-to-aiken**](https://github.com/canardu1/excel-to-aiken) · [**pdf-question-extractor**](https://github.com/canardu1/pdf-question-extractor) | Turn Excel tables and PDFs into AIKEN quiz questions for Moodle |
-| [**autoblogger_llama32_ollama**](https://github.com/canardu1/autoblogger_llama32_ollama) | An autoblogger powered by a local Llama 3.2 via Ollama |
 
 ### 📫 Find me
 
