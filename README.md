@@ -1,3 +1,14 @@
+```
+ ██████╗ █████╗ ██████╗ ██╗      ██████╗ 
+██╔════╝██╔══██╗██╔══██╗██║     ██╔═══██╗
+██║     ███████║██████╔╝██║     ██║   ██║
+██║     ██╔══██║██╔══██╗██║     ██║   ██║
+╚██████╗██║  ██║██║  ██║███████╗╚██████╔╝
+ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ 
+```
+
+<a href="https://github.com/canardu1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&width=520&lines=Building+websites+%26+side+projects;Native+macOS+apps+with+Rust+%2B+Tauri;Moodle+plugins+%26+e-learning+tools;Small+tools+that+make+life+easier" alt="Typing SVG" /></a>
+
 # Hi, I'm Carlo 👋
 
 Building websites, side projects and small tools that make life easier — from Moodle plugins to native macOS apps.
